@@ -20,37 +20,44 @@
             {
                 "id": "SNOntario",
                 "neu_lion_id": 3,
-                "name": "ontario"
+                "name": "ontario",
+                "watch_live_id": "sno"
             },
             {
                 "id": "SNPacific",
                 "neu_lion_id": 5,
-                "name": "pacific"
+                "name": "pacific",
+                "watch_live_id": "snp"
             },
             {
                 "id": "SNWest",
                 "neu_lion_id": 4,
-                "name": "west"
+                "name": "west",
+                "watch_live_id": "snw"
             },
             {
                 "id": "SNEast",
                 "neu_lion_id": 1,
-                "name": "east"
+                "name": "east",
+                "watch_live_id": "sne"
             },
             {
                 "id": "SNOne",
                 "neu_lion_id": 2,
-                "name": "one"
+                "name": "one",
+                "watch_live_id": "sn1"
             },
             {
                 "id": "SN360",
                 "neu_lion_id": 6,
-                "name": "360"
+                "name": "360",
+                "watch_live_id": "sn360"
             },
             {
                 "id": "SNWorld",
                 "neu_lion_id": 8,
-                "name": "world"
+                "name": "world",
+                "watch_live_id": "snworld"
             }
         ],
         "providers": [
@@ -75,34 +82,41 @@
             "channels": [
                 {
                     "resource_id": "SNOntario",
-                    "channel_id": 3
+                    "channel_id": 3,
+                    "watch_live_id": "sno"
                 },
                 {
                     "resource_id": "SNPacific",
-                    "channel_id": 5
+                    "channel_id": 5,
+                    "watch_live_id": "snp"
                 },
                 {
                     "resource_id": "SNWest",
-                    "channel_id": 4
+                    "channel_id": 4,
+                    "watch_live_id": "snw"
                 },
                 {
                     "resource_id": "SNEast",
-                    "channel_id": 1
+                    "channel_id": 1,
+                    "watch_live_id": "sne"
                 },
                 {
                     "resource_id": "SNOne",
-                    "channel_id": 2
+                    "channel_id": 2,
+                    "watch_live_id": "sn1"
                 },
                 {
                     "resource_id": "SN360",
-                    "channel_id": 6
+                    "channel_id": 6,
+                    "watch_live_id": "sn360"
                 },
                 {
                     "resource_id": "SNWorld",
-                    "channel_id": 8
+                    "channel_id": 8,
+                    "watch_live_id": "snworld"
                 }
             ],
-            "image_url": "http://staging-www.fxnowcanada.ca/wp-content/uploads/2014/05/provider_rogers.png"
+            "image_url": "http://dimitar71.github.io/images/provider_rogers.png"
         }
     ],
     "live_channels": {
@@ -201,7 +215,7 @@
                 {
                     "name": "mlb",
                     "title": "Major League Baseball",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/mlb.png",
+                    "icon": "http://dimitar71.github.io/images/mlb.png",
                     "color": "#07246a",
                     "weight": 2,
                     "sections": [
@@ -246,7 +260,7 @@
                 {
                     "name": "nhl",
                     "title": "National Hockey League",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/nhl.png",
+                    "icon": "http://dimitar71.github.io/images/nhl.png",
                     "color": "#262626",
                     "weight": 1,
                     "sections": [
@@ -291,7 +305,7 @@
                 {
                     "name": "ohl",
                     "title": "Ontario Hockey League",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/ohl.png",
+                    "icon": "http://dimitar71.github.io/images/ohl.png",
                     "color": "#0078c4",
                     "weight": 6,
                     "sections": [
@@ -336,7 +350,7 @@
                 {
                     "name": "qmjhl",
                     "title": "Quebec Major Junior Hockey League",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/qmjhl.png",
+                    "icon": "http://dimitar71.github.io/images/qmjhl.png",
                     "color": "#005fac",
                     "weight": 7,
                     "sections": [
@@ -381,7 +395,7 @@
                 {
                     "name": "whl",
                     "title": "Western Hockey League",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/whl.png",
+                    "icon": "http://dimitar71.github.io/images/whl.png",
                     "color": "#231f20",
                     "weight": 8,
                     "sections": [
@@ -431,7 +445,7 @@
                 {
                     "name": "cfl",
                     "title": "Canadian Football League",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/cfl.png",
+                    "icon": "http://dimitar71.github.io/images/cfl.png",
                     "color": "#ba190e",
                     "weight": 5,
                     "regular_season_start_date": "2014-06-24 12:00-0400",
@@ -477,7 +491,7 @@
                 {
                     "name": "nfl",
                     "title": "National Football League",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/nfl.png",
+                    "icon": "http://dimitar71.github.io/images/nfl.png",
                     "color": "#003974",
                     "weight": 3,
                     "regular_season_start_date": "2014-09-02 12:00-0400",
@@ -531,7 +545,7 @@
                 {
                     "name": "nba",
                     "title": "National Basketball Association",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/nba.png",
+                    "icon": "http://dimitar71.github.io/images/nba.png",
                     "color": "#0051a8",
                     "weight": 4,
                     "sections": [
@@ -571,7 +585,7 @@
                 {
                     "name": "mls",
                     "title": "MLS Soccer",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/mls.png",
+                    "icon": "http://dimitar71.github.io/images/mls.png",
                     "color": "#182657",
                     "weight": 9,
                     "sections": [
@@ -585,7 +599,7 @@
                 {
                     "name": "bpl",
                     "title": "BPL Soccer",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/bpl.png",
+                    "icon": "http://dimitar71.github.io/images/bpl.png",
                     "color": "#000044",
                     "weight": 10,
                     "sections": [
@@ -604,7 +618,7 @@
                 {
                     "name": "curling",
                     "title": "Grand Slam of Curling",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/curling.png",
+                    "icon": "http://dimitar71.github.io/images/curling.png",
                     "color": "#003362",
                     "weight": 11,
                     "sections": [
@@ -623,7 +637,7 @@
                 {
                     "name": "atp",
                     "title": "Association of Tennis Professionals",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/atp.png",
+                    "icon": "http://dimitar71.github.io/images/atp.png",
                     "color": "#1d2d63",
                     "weight": 12,
                     "sections": [
@@ -636,7 +650,7 @@
                 {
                     "name": "wta",
                     "title": "WOmen's Tennis Association",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/wta.png",
+                    "icon": "http://dimitar71.github.io/images/wta.png",
                     "color": "#532d81",
                     "weight": 13,
                     "sections": [
@@ -655,7 +669,7 @@
                 {
                     "name": "pga",
                     "title": "PGA Tour",
-                    "icon": "http://intstats-mobile.sportsnet.ca/stats/images/pga.png",
+                    "icon": "http://dimitar71.github.io/images/pga.png",
                     "color": "#003876",
                     "weight": 14,
                     "sections": [
