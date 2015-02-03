@@ -2,11 +2,12 @@
     "general": {
         "about": "Sportsnet is Fuelled By Fans, immersing you into the drama and meaning of the game. Our talent connects you to your favorite teams, sports and players with a deep insider perspective that is unmatched in Canada.\n\nSportsnet offers the best in live sports, news, insight and coverage across six television channels and five platforms: TV, Radio, Print, Online and Mobile. All of our platforms work together to fuel your passion for sports, however you choose, and wherever you are. The multi-platform brand consists of Sportsnet, Sportsnet.ca (Canada's fastest growing sports website), Sportsnet 590 The FAN, Sportsnet 960 The FAN, the award winning Sportsnet Magazine and Sportsnet Mobile apps.\n\nSportsnet: Fuelled By Fans.\n",
         "terms_and_conditions": "http://www.rogersdigitalmedia.com/terms-conditions",
-        "privacy": "http://www.rogerspublishing.ca/privacy.shtml"
+        "privacy": "http://www.rogerspublishing.ca/privacy.shtml",
+        "brightcove_token": "IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.",
+        "highlight_token": "QIXAhI7h1TK3JUcbpy5Di0JXZwRM4hiaA0PxHxAoIuKKH_gnda5gow.."
     },
     "android": {
         "phone_and_tablet_version": "1.0.0",
-        "phone_and_tablet_google_play": "",
         "tv_version": "1.0.0",
         "wear_version": "1.0.0",
         "glass_version": "1.0.0"
