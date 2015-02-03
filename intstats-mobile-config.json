@@ -17,71 +17,69 @@
 	"ios": {},
 	"windows_8": {},
 	"web": {},
-	"adobe_pass": {
+	"adobe_pass_details": {
 		"requestor_id": "SportsnetNowCA",
 		"requestor_id_url": "https://staging-tve.rogersdigitalmedia.com/mobile/sportsnet-adobe-pass/ss?pass=9saJpLURsu0g0G39uK00JEw4Yh2Uwbs4",
-		"provider_details": {
-			"schedule": "http://www.sportsnet.ca/wp-content/themes/sportsnet/broadcast_schedule/ajax/broadcast_schedule/date_files/ONTARIO_%1$@.xml",
-			"channels": [
-				{
-					"id": "SNOntario",
-					"neu_lion_id": 3,
-					"name": "ontario",
-					"watch_live_id": "sno"
-				},
-				{
-					"id": "SNPacific",
-					"neu_lion_id": 5,
-					"name": "pacific",
-					"watch_live_id": "snp"
-				},
-				{
-					"id": "SNWest",
-					"neu_lion_id": 4,
-					"name": "west",
-					"watch_live_id": "snw"
-				},
-				{
-					"id": "SNEast",
-					"neu_lion_id": 1,
-					"name": "east",
-					"watch_live_id": "sne"
-				},
-				{
-					"id": "SNOne",
-					"neu_lion_id": 2,
-					"name": "one",
-					"watch_live_id": "sn1"
-				},
-				{
-					"id": "SN360",
-					"neu_lion_id": 6,
-					"name": "360",
-					"watch_live_id": "sn360"
-				},
-				{
-					"id": "SNWorld",
-					"neu_lion_id": 8,
-					"name": "world",
-					"watch_live_id": "snworld"
-				}
-			],
-			"providers": [
-				{
-					"id": "Rogers",
-					"image_url": "http://dimitar71.github.io/images/provider_rogers.png",
-					"channel_ids": [
-						"SNOntario",
-						"SNPacific",
-						"SNWest",
-						"SNEast",
-						"SNOne",
-						"SN360",
-						"SNWorld"
-					]
-				}
-			]
-		}
+		"schedule": "http://www.sportsnet.ca/wp-content/themes/sportsnet/broadcast_schedule/ajax/broadcast_schedule/date_files/ONTARIO_%1$@.xml",
+		"channels": [
+			{
+				"id": "SNOntario",
+				"neu_lion_id": 3,
+				"name": "ontario",
+				"watch_live_id": "sno"
+			},
+			{
+				"id": "SNPacific",
+				"neu_lion_id": 5,
+				"name": "pacific",
+				"watch_live_id": "snp"
+			},
+			{
+				"id": "SNWest",
+				"neu_lion_id": 4,
+				"name": "west",
+				"watch_live_id": "snw"
+			},
+			{
+				"id": "SNEast",
+				"neu_lion_id": 1,
+				"name": "east",
+				"watch_live_id": "sne"
+			},
+			{
+				"id": "SNOne",
+				"neu_lion_id": 2,
+				"name": "one",
+				"watch_live_id": "sn1"
+			},
+			{
+				"id": "SN360",
+				"neu_lion_id": 6,
+				"name": "360",
+				"watch_live_id": "sn360"
+			},
+			{
+				"id": "SNWorld",
+				"neu_lion_id": 8,
+				"name": "world",
+				"watch_live_id": "snworld"
+			}
+		],
+		"providers": [
+			{
+				"id": "Rogers",
+				"image_url": "http://dimitar71.github.io/images/provider_rogers.png",
+				"channel_ids": [
+					"SNOntario",
+					"SNPacific",
+					"SNWest",
+					"SNEast",
+					"SNOne",
+					"SN360",
+					"SNWorld"
+				]
+			}
+		]
 	},
 	"providers": [
 		{
