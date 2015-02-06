@@ -1,0 +1,635 @@
+{
+	"general": {
+		"about": "Sportsnet is Fuelled By Fans, immersing you into the drama and meaning of the game. Our talent connects you to your favorite teams, sports and players with a deep insider perspective that is unmatched in Canada.\n\nSportsnet offers the best in live sports, news, insight and coverage across six television channels and five platforms: TV, Radio, Print, Online and Mobile. All of our platforms work together to fuel your passion for sports, however you choose, and wherever you are. The multi-platform brand consists of Sportsnet, Sportsnet.ca (Canada's fastest growing sports website), Sportsnet 590 The FAN, Sportsnet 960 The FAN, the award winning Sportsnet Magazine and Sportsnet Mobile apps.\n\nSportsnet: Fuelled By Fans.\n",
+		"terms_and_conditions": "http://www.rogersdigitalmedia.com/terms-conditions",
+		"privacy": "http://www.rogerspublishing.ca/privacy.shtml",
+		"brightcove_token": "IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.",
+		"highlight_token": "QIXAhI7h1TK3JUcbpy5Di0JXZwRM4hiaA0PxHxAoIuKKH_gnda5gow.."
+	},
+	"android": {
+		"phone_and_tablet_version": "1.0.0",
+		"tv_version": "1.0.0",
+		"wear_version": "1.0.0",
+		"glass_version": "1.0.0"
+	},
+	"ios": {},
+	"windows_8": {},
+	"web": {},
+	"adobepass_details": {
+		"requestorid": "SportsnetNowCA",
+		"requestorid_url": "https://staging-tve.rogersdigitalmedia.com/mobile/sportsnet-adobe-pass/ss?pass=9saJpLURsu0g0G39uK00JEw4Yh2Uwbs4",
+		"schedule": "http://www.sportsnet.ca/wp-content/themes/sportsnet/broadcast_schedule/ajax/broadcast_schedule/date_files/ONTARIO_%1$@.xml",
+		"neulion_appid": "sportsnet",
+		"neulion_appid_url": "https://staging-tve.rogersdigitalmedia.com/mobile/sportsnet-neulion/ss?pass=pOzq17uHb2Ip1Iq1lGS279JrD8AIvDPs",
+		"channels": [
+			{
+				"id": "SNOntario",
+				"name": "ontario",
+				"neulion_id": 3,
+				"watchlive_id": "sno"
+			},
+			{
+				"id": "SNPacific",
+				"name": "pacific",
+				"neulion_id": 5,
+				"watchlive_id": "snp"
+			},
+			{
+				"id": "SNWest",
+				"name": "west",
+				"neulion_id": 4,
+				"watchlive_id": "snw"
+			},
+			{
+				"id": "SNEast",
+				"name": "east",
+				"neulion_id": 1,
+				"watchlive_id": "sne"
+			},
+			{
+				"id": "SNOne",
+				"name": "one",
+				"neulion_id": 2,
+				"watchlive_id": "sn1"
+			},
+			{
+				"id": "SN360",
+				"name": "360",
+				"neulion_id": 6,
+				"watchlive_id": "sn360"
+			},
+			{
+				"id": "SNWorld",
+				"name": "world",
+				"neulion_id": 8,
+				"watchlive_id": "snworld"
+			}
+		],
+		"providers": [
+			{
+				"id": "Rogers",
+				"image_url": "http://dimitar71.github.io/images/provider_rogers.png",
+				"channel_ids": [
+					"SNOntario",
+					"SNPacific",
+					"SNWest",
+					"SNEast",
+					"SNOne",
+					"SN360",
+					"SNWorld"
+				]
+			}
+		]
+	},
+	"radio_stations": [
+		{
+			"name": "sn590",
+			"short_title": "SN 590 Toronto",
+			"title": "Sportsnet 590 The Fan (Toronto) Radio Broadcast Station",
+			"image_url": "http://radioadminassets.rogersdigitalmedia.com/uploads/sportsnet-590-logo-640x360.jpg",
+			"url": "http://dev.adigamov.ca:8000/api/v1/audios.json?station=590&show=%1$@&per_group=%2$@&from=%3$@",
+			"schedule_url": "http://radioadminassets.rogersdigitalmedia.com/cjcl/widget/coming_up_on_air?num_coming_up=10",
+			"live_url": "http://radio_cjcl-lh.akamaihd.net/i/TOR590_1@176950/master.m3u8",
+			"live_meta_url": "http://radioadminassets.rogersdigitalmedia.com/cjcl/widget/on_air",
+			"time_zone": "America/Toronto",
+			"time_zones": []
+		},
+		{
+			"name": "sn960",
+			"short_title": "SN 960 Calgary",
+			"title": "Sportsnet 960 The Fan (Calgary) Radio Broadcast Station",
+			"image_url": "http://radioadminassets.rogersdigitalmedia.com/uploads/sportsnet-960-logo-640x360.jpg",
+			"url": "http://dev.adigamov.ca:8000/api/v1/audios.json?station=960&show=%1$@&per_group=%2$@&from=%3$@",
+			"schedule_url": "http://radioadminassets.rogersdigitalmedia.com/cfac/widget/coming_up_on_air?num_coming_up=10",
+			"live_url": "http://radio_cfac-lh.akamaihd.net/i/CAL960_1@191905/master.m3u8",
+			"live_meta_url": "http://radioadminassets.rogersdigitalmedia.com/cfac/widget/on_air",
+			"time_zone": "America/Edmonton",
+			"time_zones": [
+				"America/Vancouver",
+				"America/Edmonton"
+			]
+		}
+	],
+	"rich_media": {
+		"categories": "http://intstats-mobile.sportsnet.ca/rmnf/api/v1/news.json​?shows=false&per_page=50&league=%1$@&team=%2$@&game=%3$@&type=%4$@",
+		"shows": "http://intstats-mobile.sportsnet.ca/rmnf/api/v1/news.json​?shows=true&per_page=50&league=%1$@&team=%2$@&game=%3$@&type=%4$@",
+		"text_search": "http://intstats-mobile.sportsnet.ca/rmnf/api/v1/news.json​?lq=%1$@",
+		"article": "http://dev2.adigamov.ca:8000/api/v1/news/%1$@.xml"
+	},
+	"sport_urls": {
+		"notifications_get": "http://intstats-mobile.sportsnet.ca/notifications/v1/users/%1$@/subscriptions",
+		"notifications_post": "http://intstats-mobile.sportsnet.ca/notifications/v1/users/%1$@/subscriptions?reset=%2$@&platform=%3$@",
+		"brightcove_video_ios": "http://api.brightcove.com/services/library?command=search_videos&any=reference_id:%1$@&media_delivery=http_ios&video_fields=id,name,length,FLVURL,publishedDate,thumbnailURL,videoStillURL&token=IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.&sort_by=PUBLISH_DATE:DESC",
+		"brightcove_video_mp4": "http://api.brightcove.com/services/library?command=search_videos&any=reference_id:%1$@&media_delivery=http&video_fields=id,name,length,FLVURL,publishedDate,thumbnailURL,videoStillURL&token=IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.&sort_by=PUBLISH_DATE:DESC",
+		"videos": "http://dev.adigamov.ca:8000/api/v1/videos.json?league=%1$@&team=%2$@&category=%3$@&per_group=%4$@&shows=%5$@",
+		"leagues": "http://intstats-mobile.sportsnet.ca/stats/api/v1/teams",
+		"local_teams": "http://intstats-mobile.sportsnet.ca/stats/api/v1/localteams?latitude=%1$@&longitude=%2$@&ip=%3$@",
+		"scores": "http://intstats-mobile.sportsnet.ca/stats/api/v1/scores?league=%1$@&team=%2$@&day=%3$@",
+		"team_standings": "http://intstats-mobile.sportsnet.ca/stats/api/v1/standings?league=%1$@",
+		"team_home": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+		"team_add_to_calendar": "http://sportsnet.calreply.net/",
+		"game_pre_postgame_summary": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+		"game_live_tracker": "http://www.sportsnet.ca/%1$@/%2$@/livetracker/game/%3$@?mobile=true",
+		"game_video_highlights": "http://igh.herokuapp.com/api/items?per_page=15&game=%1$@&type=%2$@",
+		"player_games_summary": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+		"player_video_highlights": "http://igh.herokuapp.com/api/items?per_page=10&player=%1$@&type=%2$@",
+		"football": {
+			"scores": "http://intstats-mobile.sportsnet.ca/stats/api/v1/scores?league=%1$@&week=%2$@&type=%3$@"
+		}
+	},
+	"allowed_sections": [
+		"news",
+		"scores",
+		"standings",
+		"videos"
+	],
+	"all_sports": {
+		"default_leagues": [
+			"mlb",
+			"nhl",
+			"nba",
+			"nfl",
+			"cfl"
+		],
+		"sections": [
+			"scores",
+			"news",
+			"videos"
+		]
+	},
+	"sports": [
+		{
+			"name": "baseball",
+			"leagues": [
+				{
+					"name": "mlb",
+					"title": "Major League Baseball",
+					"icon": "http://dimitar71.github.io/images/mlb.png",
+					"color": "#07246a",
+					"weight": 2,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": [
+						{
+							"type": "start",
+							"title": "Game Start",
+							"title_fr": ""
+						},
+						{
+							"type": "end",
+							"title": "Game End",
+							"title_fr": ""
+						},
+						{
+							"type": "score",
+							"title": "On Every Score",
+							"title_fr": ""
+						},
+						{
+							"type": "close_game",
+							"title": "Close Game",
+							"title_fr": ""
+						},
+						{
+							"type": "three_innings",
+							"title": "Every 3 innings",
+							"title_fr": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "hockey",
+			"leagues": [
+				{
+					"name": "nhl",
+					"title": "National Hockey League",
+					"icon": "http://dimitar71.github.io/images/nhl.png",
+					"color": "#262626",
+					"weight": 1,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": [
+						{
+							"type": "start",
+							"title": "Game Start",
+							"title_fr": ""
+						},
+						{
+							"type": "end",
+							"title": "Game End",
+							"title_fr": ""
+						},
+						{
+							"type": "score",
+							"title": "On Every Score",
+							"title_fr": ""
+						},
+						{
+							"type": "close_game",
+							"title": "Close Game",
+							"title_fr": ""
+						},
+						{
+							"type": "goal_highlights",
+							"title": "Goal Highlights",
+							"title_fr": ""
+						},
+						{
+							"type": "period",
+							"title": "Period",
+							"title_fr": ""
+						}
+					]
+				},
+				{
+					"name": "ohl",
+					"title": "Ontario Hockey League",
+					"icon": "http://dimitar71.github.io/images/ohl.png",
+					"color": "#0078c4",
+					"weight": 6,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": [
+						{
+							"type": "start",
+							"title": "Game Start",
+							"title_fr": ""
+						},
+						{
+							"type": "end",
+							"title": "Game End",
+							"title_fr": ""
+						},
+						{
+							"type": "score",
+							"title": "On Every Score",
+							"title_fr": ""
+						},
+						{
+							"type": "close_game",
+							"title": "Close Game",
+							"title_fr": ""
+						},
+						{
+							"type": "goal_highlights",
+							"title": "Goal Highlights",
+							"title_fr": ""
+						},
+						{
+							"type": "period",
+							"title": "Period",
+							"title_fr": ""
+						}
+					]
+				},
+				{
+					"name": "qmjhl",
+					"title": "Quebec Major Junior Hockey League",
+					"icon": "http://dimitar71.github.io/images/qmjhl.png",
+					"color": "#005fac",
+					"weight": 7,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": [
+						{
+							"type": "start",
+							"title": "Game Start",
+							"title_fr": ""
+						},
+						{
+							"type": "end",
+							"title": "Game End",
+							"title_fr": ""
+						},
+						{
+							"type": "score",
+							"title": "On Every Score",
+							"title_fr": ""
+						},
+						{
+							"type": "close_game",
+							"title": "Close Game",
+							"title_fr": ""
+						},
+						{
+							"type": "goal_highlights",
+							"title": "Goal Highlights",
+							"title_fr": ""
+						},
+						{
+							"type": "period",
+							"title": "Period",
+							"title_fr": ""
+						}
+					]
+				},
+				{
+					"name": "whl",
+					"title": "Western Hockey League",
+					"icon": "http://dimitar71.github.io/images/whl.png",
+					"color": "#231f20",
+					"weight": 8,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": [
+						{
+							"type": "start",
+							"title": "Game Start",
+							"title_fr": ""
+						},
+						{
+							"type": "end",
+							"title": "Game End",
+							"title_fr": ""
+						},
+						{
+							"type": "score",
+							"title": "On Every Score",
+							"title_fr": ""
+						},
+						{
+							"type": "close_game",
+							"title": "Close Game",
+							"title_fr": ""
+						},
+						{
+							"type": "goal_highlights",
+							"title": "Goal Highlights",
+							"title_fr": ""
+						},
+						{
+							"type": "period",
+							"title": "Period",
+							"title_fr": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "football",
+			"leagues": [
+				{
+					"name": "cfl",
+					"title": "Canadian Football League",
+					"icon": "http://dimitar71.github.io/images/cfl.png",
+					"color": "#ba190e",
+					"weight": 5,
+					"regular_season_start_date": "2014-06-24 12:00-0400",
+					"regular_season_total_weeks": 23,
+					"pre_season_total_weeks": 1,
+					"division_semifinals_week": 21,
+					"division_championship_week": 22,
+					"grey_cup_week": 4,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": [
+						{
+							"type": "start",
+							"title": "Game Start",
+							"title_fr": ""
+						},
+						{
+							"type": "end",
+							"title": "Game End",
+							"title_fr": ""
+						},
+						{
+							"type": "score",
+							"title": "On Every Score",
+							"title_fr": ""
+						},
+						{
+							"type": "close_game",
+							"title": "Close Game",
+							"title_fr": ""
+						},
+						{
+							"type": "quarter",
+							"title": "Quarter End",
+							"title_fr": ""
+						}
+					]
+				},
+				{
+					"name": "nfl",
+					"title": "National Football League",
+					"icon": "http://dimitar71.github.io/images/nfl.png",
+					"color": "#003974",
+					"weight": 3,
+					"regular_season_start_date": "2014-09-02 12:00-0400",
+					"regular_season_total_weeks": 22,
+					"pre_season_total_weeks": 5,
+					"hall_of_fame_week": 1,
+					"wildcard_week": 18,
+					"division_week": 19,
+					"championship_week": 20,
+					"pro_bowl_week": 21,
+					"super_bowl_week": 22,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": [
+						{
+							"type": "start",
+							"title": "Game Start",
+							"title_fr": ""
+						},
+						{
+							"type": "end",
+							"title": "Game End",
+							"title_fr": ""
+						},
+						{
+							"type": "score",
+							"title": "On Every Score",
+							"title_fr": ""
+						},
+						{
+							"type": "close_game",
+							"title": "Close Game",
+							"title_fr": ""
+						},
+						{
+							"type": "quarter",
+							"title": "Quarter End",
+							"title_fr": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "basketball",
+			"leagues": [
+				{
+					"name": "nba",
+					"title": "National Basketball Association",
+					"icon": "http://dimitar71.github.io/images/nba.png",
+					"color": "#0051a8",
+					"weight": 4,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": [
+						{
+							"type": "start",
+							"title": "Game Start",
+							"title_fr": ""
+						},
+						{
+							"type": "end",
+							"title": "Game End",
+							"title_fr": ""
+						},
+						{
+							"type": "close_game",
+							"title": "Close Game",
+							"title_fr": ""
+						},
+						{
+							"type": "quarter",
+							"title": "Quarter End",
+							"title_fr": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "soccer",
+			"leagues": [
+				{
+					"name": "mls",
+					"title": "MLS Soccer",
+					"icon": "http://dimitar71.github.io/images/mls.png",
+					"color": "#182657",
+					"weight": 9,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": []
+				},
+				{
+					"name": "bpl",
+					"title": "BPL Soccer",
+					"icon": "http://dimitar71.github.io/images/bpl.png",
+					"color": "#000044",
+					"weight": 10,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": []
+				}
+			]
+		},
+		{
+			"name": "curling",
+			"leagues": [
+				{
+					"name": "curling",
+					"title": "Grand Slam of Curling",
+					"icon": "http://dimitar71.github.io/images/curling.png",
+					"color": "#003362",
+					"weight": 11,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": []
+				}
+			]
+		},
+		{
+			"name": "tennis",
+			"leagues": [
+				{
+					"name": "atp",
+					"title": "Association of Tennis Professionals",
+					"icon": "http://dimitar71.github.io/images/atp.png",
+					"color": "#1d2d63",
+					"weight": 12,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					]
+				},
+				{
+					"name": "wta",
+					"title": "WOmen's Tennis Association",
+					"icon": "http://dimitar71.github.io/images/wta.png",
+					"color": "#532d81",
+					"weight": 13,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": []
+				}
+			]
+		},
+		{
+			"name": "golf",
+			"leagues": [
+				{
+					"name": "pga",
+					"title": "PGA Tour",
+					"icon": "http://dimitar71.github.io/images/pga.png",
+					"color": "#003876",
+					"weight": 14,
+					"sections": [
+						"scores",
+						"news",
+						"videos",
+						"standings"
+					],
+					"notifications": []
+				}
+			]
+		}
+	]
+}
