@@ -111,9 +111,9 @@
 		}
 	],
 	"rich_media": {
-		"categories": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news.json​?shows=false&per_page=50&league=%1$@&team=%2$@&game=%3$@&type=%4$@",
-		"shows": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news.json​?shows=true&per_page=50&league=%1$@&team=%2$@&game=%3$@&type=%4$@",
-		"text_search": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news.json​?lq=%1$@",
+		"categories": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news.json?shows=false&per_page=50&league=%1$@&team=%2$@&game=%3$@&type=%4$@",
+		"shows": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news.json?shows=true&per_page=50&league=%1$@&team=%2$@&game=%3$@&type=%4$@",
+		"text_search": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news.json?lq=%1$@",
 		"article": "http://dev2.adigamov.ca:8000/api/v1/news/%1$@.xml"
 	},
 	"sport_urls": {
