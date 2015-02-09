@@ -91,7 +91,7 @@
 			"short_title": "SN 590 Toronto",
 			"title": "Sportsnet 590 The Fan (Toronto) Radio Broadcast Station",
 			"image_url": "http://radioadminassets.rogersdigitalmedia.com/uploads/sportsnet-590-logo-640x360.jpg",
-			"url": "http://dev.adigamov.ca:8000/api/v1/audios.json?station=590&show=%1$@&per_group=%2$@&from=%3$@",
+			"url": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/audios.json?station=590&show=%1$@&per_group=%2$@&from=%3$@",
 			"schedule_url": "http://radioadminassets.rogersdigitalmedia.com/cjcl/widget/coming_up_on_air?num_coming_up=10",
 			"live_url": "http://radio_cjcl-lh.akamaihd.net/i/TOR590_1@176950/master.m3u8",
 			"live_meta_url": "http://radioadminassets.rogersdigitalmedia.com/cjcl/widget/on_air",
@@ -103,7 +103,7 @@
 			"short_title": "SN 960 Calgary",
 			"title": "Sportsnet 960 The Fan (Calgary) Radio Broadcast Station",
 			"image_url": "http://radioadminassets.rogersdigitalmedia.com/uploads/sportsnet-960-logo-640x360.jpg",
-			"url": "http://dev.adigamov.ca:8000/api/v1/audios.json?station=960&show=%1$@&per_group=%2$@&from=%3$@",
+			"url": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/audios.json?station=960&show=%1$@&per_group=%2$@&from=%3$@",
 			"schedule_url": "http://radioadminassets.rogersdigitalmedia.com/cfac/widget/coming_up_on_air?num_coming_up=10",
 			"live_url": "http://radio_cfac-lh.akamaihd.net/i/CAL960_1@191905/master.m3u8",
 			"live_meta_url": "http://radioadminassets.rogersdigitalmedia.com/cfac/widget/on_air",
@@ -115,17 +115,15 @@
 		}
 	],
 	"rich_media": {
-		"categories": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news.json?shows=false&per_page=50&league=%1$@&team=%2$@&game=%3$@&type=%4$@",
-		"shows": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news.json?shows=true&per_page=50&league=%1$@&team=%2$@&game=%3$@&type=%4$@",
-		"text_search": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news.json?lq=%1$@",
-		"article": "http://dev2.adigamov.ca:8000/api/v1/news/%1$@.xml"
+		"categories": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news.json?shows=false&league=%1$@&team=%2$@&game=%3$@&type=%4$@&per_page=%5$@",
+		"article": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news/%1$@.xml"
 	},
 	"sport_urls": {
 		"notifications_get": "http://stgstats-mobile.sportsnet.ca/notifications/v1/users/%1$@/subscriptions",
 		"notifications_post": "http://stgstats-mobile.sportsnet.ca/notifications/v1/users/%1$@/subscriptions?reset=%2$@&platform=%3$@",
 		"brightcove_video_ios": "http://api.brightcove.com/services/library?command=search_videos&any=reference_id:%1$@&media_delivery=http_ios&video_fields=id,name,length,FLVURL,publishedDate,thumbnailURL,videoStillURL&token=IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.&sort_by=PUBLISH_DATE:DESC",
 		"brightcove_video_mp4": "http://api.brightcove.com/services/library?command=search_videos&any=reference_id:%1$@&media_delivery=http&video_fields=id,name,length,FLVURL,publishedDate,thumbnailURL,videoStillURL&token=IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.&sort_by=PUBLISH_DATE:DESC",
-		"videos": "http://dev.adigamov.ca:8000/api/v1/videos.json?league=%1$@&team=%2$@&category=%3$@&per_group=%4$@&shows=%5$@",
+		"videos": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/videos.json?league=%1$@&team=%2$@&category=%3$@&per_group=%4$@&shows=%5$@",
 		"leagues": "http://stgstats-mobile.sportsnet.ca/stats/api/v1/teams",
 		"local_teams": "http://stgstats-mobile.sportsnet.ca/stats/api/v1/localteams?latitude=%1$@&longitude=%2$@&ip=%3$@",
 		"scores": "http://stgstats-mobile.sportsnet.ca/stats/api/v1/scores?league=%1$@&team=%2$@&day=%3$@",
