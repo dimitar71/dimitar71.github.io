@@ -568,7 +568,9 @@
 				{
 					"name": "bpl",
 					"title": "BPL Soccer",
-					"icon": "http://dimitar71.github.io/images/bpl.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/bpl/images/bpl_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/bpl/images/bpl_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/bpl/images/bpl_256x256.png",
 					"color": "#000044",
 					"weight": 10,
 					"sections": [

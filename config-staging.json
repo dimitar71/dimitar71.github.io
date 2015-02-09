@@ -166,9 +166,9 @@
 				{
 					"name": "mlb",
 					"title": "Major League Baseball",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mlb/images/mlb_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mlb/images/mlb_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mlb/images/mlb_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mlb/images/mlb_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mlb/images/mlb_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mlb/images/mlb_256x256.png",
 					"color": "#07246a",
 					"weight": 2,
 					"sections": [
@@ -213,9 +213,9 @@
 				{
 					"name": "nhl",
 					"title": "National Hockey League",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/nhl_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/nhl_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/mnhl_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/nhl_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/nhl_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/mnhl_256x256.png",
 					"color": "#262626",
 					"weight": 1,
 					"sections": [
@@ -260,9 +260,9 @@
 				{
 					"name": "ohl",
 					"title": "Ontario Hockey League",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/ohl/images/ohl_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/ohl/images/ohl_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/ohl/images/ohl_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/ohl/images/ohl_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/ohl/images/ohl_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/ohl/images/ohl_256x256.png",
 					"color": "#0078c4",
 					"weight": 6,
 					"sections": [
@@ -307,9 +307,9 @@
 				{
 					"name": "qmjhl",
 					"title": "Quebec Major Junior Hockey League",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/qmjhl/images/qmjhl_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/qmjhl/images/qmjhl_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/qmjhl/images/qmjhl_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/qmjhl/images/qmjhl_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/qmjhl/images/qmjhl_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/qmjhl/images/qmjhl_256x256.png",
 					"color": "#005fac",
 					"weight": 7,
 					"sections": [
@@ -354,9 +354,9 @@
 				{
 					"name": "whl",
 					"title": "Western Hockey League",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/whl/images/whl_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/whl/images/whl_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/whl/images/whl_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/whl/images/whl_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/whl/images/whl_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/whl/images/whl_256x256.png",
 					"color": "#231f20",
 					"weight": 8,
 					"sections": [
@@ -406,9 +406,9 @@
 				{
 					"name": "cfl",
 					"title": "Canadian Football League",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/cfl/images/cfl_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/cfl/images/cfl_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/cfl/images/cfl_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/cfl/images/cfl_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/cfl/images/cfl_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/cfl/images/cfl_256x256.png",
 					"color": "#ba190e",
 					"weight": 5,
 					"regular_season_start_date": "2014-06-24 12:00-0400",
@@ -454,9 +454,9 @@
 				{
 					"name": "nfl",
 					"title": "National Football League",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nfl/images/nfl_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nfl/images/nfl_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nfl/images/nfl_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nfl/images/nfl_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nfl/images/nfl_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nfl/images/nfl_256x256.png",
 					"color": "#003974",
 					"weight": 3,
 					"regular_season_start_date": "2014-09-02 12:00-0400",
@@ -510,9 +510,9 @@
 				{
 					"name": "nba",
 					"title": "National Basketball Association",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nba/images/nba_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nba/images/nba_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nba/images/nba_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nba/images/nba_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nba/images/nba_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nba/images/nba_256x256.png",
 					"color": "#0051a8",
 					"weight": 4,
 					"sections": [
@@ -552,9 +552,9 @@
 				{
 					"name": "mls",
 					"title": "MLS Soccer",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mls/images/mls_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mls/images/mls_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mls/images/mls_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mls/images/mls_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mls/images/mls_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mls/images/mls_256x256.png",
 					"color": "#182657",
 					"weight": 9,
 					"sections": [
@@ -568,7 +568,9 @@
 				{
 					"name": "bpl",
 					"title": "BPL Soccer",
-					"icon": "http://dimitar71.github.io/images/bpl.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/bpl/images/bpl_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/bpl/images/bpl_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/bpl/images/bpl_256x256.png",
 					"color": "#000044",
 					"weight": 10,
 					"sections": [
@@ -587,9 +589,9 @@
 				{
 					"name": "curling",
 					"title": "Grand Slam of Curling",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/curling/images/curling_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/curling/images/curling_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/curling/images/curling_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/curling/images/curling_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/curling/images/curling_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/curling/images/curling_256x256.png",
 					"color": "#003362",
 					"weight": 11,
 					"sections": [
@@ -608,9 +610,9 @@
 				{
 					"name": "atp",
 					"title": "Association of Tennis Professionals",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/atp/images/atp_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/atp/images/atp_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/atp/images/atp_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/atp/images/atp_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/atp/images/atp_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/atp/images/atp_256x256.png",
 					"color": "#1d2d63",
 					"weight": 12,
 					"sections": [
@@ -623,9 +625,9 @@
 				{
 					"name": "wta",
 					"title": "WOmen's Tennis Association",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/wta/images/wta_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/wta/images/wta_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/wta/images/wta_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/wta/images/wta_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/wta/images/wta_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/wta/images/wta_256x256.png",
 					"color": "#532d81",
 					"weight": 13,
 					"sections": [
@@ -644,9 +646,9 @@
 				{
 					"name": "pga",
 					"title": "PGA Tour",
-					"icon_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/pga/images/pga_48x48.png",
-					"icon_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/pga/images/pga_96x96.png",
-					"icon_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/pga/images/pga_256x256.png",
+					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/pga/images/pga_48x48.png",
+					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/pga/images/pga_96x96.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/pga/images/pga_256x256.png",
 					"color": "#003876",
 					"weight": 14,
 					"sections": [
