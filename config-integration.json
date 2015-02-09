@@ -6,7 +6,9 @@
 		"brightcove_token": "IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.",
 		"brightcove_cmsid": "384",
 		"highlight_token": "QIXAhI7h1TK3JUcbpy5Di0JXZwRM4hiaA0PxHxAoIuKKH_gnda5gow..",
-		"highlight_cmsid": "4704"
+		"highlight_cmsid": "4704",
+        "comscore_c2": "3005682",
+        "comscore_secret": "c41bab3bd05d8b3ed83b4d584c65b7f9"
 	},
 	"android": {
 		"phone_and_tablet_version": "1.0.0",
