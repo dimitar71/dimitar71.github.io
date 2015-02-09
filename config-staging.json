@@ -215,7 +215,7 @@
 					"title": "National Hockey League",
 					"image_48x48": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/nhl_48x48.png",
 					"image_96x96": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/nhl_96x96.png",
-					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/mnhl_256x256.png",
+					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/nhl_256x256.png",
 					"color": "#262626",
 					"weight": 1,
 					"sections": [
