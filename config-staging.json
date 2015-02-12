@@ -7,8 +7,8 @@
 		"brightcove_cmsid": "384",
 		"highlight_token": "QIXAhI7h1TK3JUcbpy5Di0JXZwRM4hiaA0PxHxAoIuKKH_gnda5gow..",
 		"highlight_cmsid": "4704",
-        "comscore_c2": "3005682",
-        "comscore_secret": "c41bab3bd05d8b3ed83b4d584c65b7f9"
+		"comscore_c2": "3005682",
+		"comscore_secret": "c41bab3bd05d8b3ed83b4d584c65b7f9"
 	},
 	"android": {
 		"phone_and_tablet_version": "1.0.0",
@@ -595,10 +595,8 @@
 					"color": "#003362",
 					"weight": 11,
 					"sections": [
-						"scores",
 						"news",
-						"videos",
-						"standings"
+						"videos"
 					],
 					"notifications": []
 				}
@@ -616,10 +614,8 @@
 					"color": "#1d2d63",
 					"weight": 12,
 					"sections": [
-						"scores",
 						"news",
-						"videos",
-						"standings"
+						"videos"
 					]
 				},
 				{
@@ -631,10 +627,8 @@
 					"color": "#532d81",
 					"weight": 13,
 					"sections": [
-						"scores",
 						"news",
-						"videos",
-						"standings"
+						"videos"
 					],
 					"notifications": []
 				}
@@ -652,10 +646,8 @@
 					"color": "#003876",
 					"weight": 14,
 					"sections": [
-						"scores",
 						"news",
-						"videos",
-						"standings"
+						"videos"
 					],
 					"notifications": []
 				}

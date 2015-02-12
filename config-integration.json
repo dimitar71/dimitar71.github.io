@@ -595,10 +595,8 @@
 					"color": "#003362",
 					"weight": 11,
 					"sections": [
-						"scores",
 						"news",
-						"videos",
-						"standings"
+						"videos"
 					],
 					"notifications": []
 				}
@@ -616,10 +614,8 @@
 					"color": "#1d2d63",
 					"weight": 12,
 					"sections": [
-						"scores",
 						"news",
-						"videos",
-						"standings"
+						"videos"
 					]
 				},
 				{
@@ -631,10 +627,8 @@
 					"color": "#532d81",
 					"weight": 13,
 					"sections": [
-						"scores",
 						"news",
-						"videos",
-						"standings"
+						"videos"
 					],
 					"notifications": []
 				}
@@ -652,10 +646,8 @@
 					"color": "#003876",
 					"weight": 14,
 					"sections": [
-						"scores",
 						"news",
-						"videos",
-						"standings"
+						"videos"
 					],
 					"notifications": []
 				}
