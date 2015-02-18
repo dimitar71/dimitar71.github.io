@@ -143,7 +143,8 @@
 		"news",
 		"scores",
 		"standings",
-		"videos"
+		"videos",
+		"webview"
 	],
 	"all_sports": {
 		"default_leagues": [
@@ -175,7 +176,8 @@
 						"scores",
 						"news",
 						"videos",
-						"standings"
+						"standings",
+						"webview:{\"title\": \"Google\", \"url\": \"https://www.google.com\"}"
 					],
 					"notifications": [
 						{
