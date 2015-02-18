@@ -176,8 +176,7 @@
 						"scores",
 						"news",
 						"videos",
-						"standings",
-						"webview:{\"title\": \"Google\", \"url\": \"https://www.google.com\"}"
+						"standings"
 					],
 					"notifications": [
 						{
@@ -224,7 +223,8 @@
 						"scores",
 						"news",
 						"videos",
-						"standings"
+						"standings",
+						"webview:{\"title\": \"Trade Tracker\", \"url\": \"http://www.sportsnet.ca/hockey/nhl-trades/trade-tracker\"}"
 					],
 					"notifications": [
 						{
