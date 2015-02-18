@@ -176,7 +176,8 @@
 						"scores",
 						"news",
 						"videos",
-						"standings"
+						"standings",
+						"webview:{\"title\": \"Google\", \"url\": \"https://www.google.com\"}"
 					],
 					"notifications": [
 						{
