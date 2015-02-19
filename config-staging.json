@@ -72,7 +72,33 @@
 		"providers": [
 			{
 				"id": "Rogers",
-				"image_url": "http://dimitar71.github.io/images/provider_rogers.png",
+				"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/adobepass/provider_rogers.png",
+				"channel_ids": [
+					"SNOntario",
+					"SNPacific",
+					"SNWest",
+					"SNEast",
+					"SNOne",
+					"SN360",
+					"SNWorld"
+				]
+			},
+			{
+				"id": "Cogeco",
+				"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/adobepass/provider_cogeco.png",
+				"channel_ids": [
+					"SNOntario",
+					"SNPacific",
+					"SNWest",
+					"SNEast",
+					"SNOne",
+					"SN360",
+					"SNWorld"
+				]
+			},
+			{
+				"id": "Source",
+				"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/adobepass/provider_source.png",
 				"channel_ids": [
 					"SNOntario",
 					"SNPacific",
