@@ -22,7 +22,7 @@
 	"adobepass_details": {
 		"requestorid": "SportsnetNowCA",
 		"requestorid_url": "https://staging-tve.rogersdigitalmedia.com/mobile/sportsnet-adobe-pass/ss?pass=9saJpLURsu0g0G39uK00JEw4Yh2Uwbs4",
-		"schedule": "http://www.sportsnet.ca/wp-content/themes/sportsnet/broadcast_schedule/ajax/broadcast_schedule/date_files/ONTARIO_%1$@.xml",
+		"schedule": "http://intstats-mobile.sportsnet.ca/rmnf/api/v1/programs.json?from=%1$@",
 		"neulion_appid": "sportsnet",
 		"neulion_appid_url": "https://staging-tve.rogersdigitalmedia.com/mobile/sportsnet-neulion/ss?pass=pOzq17uHb2Ip1Iq1lGS279JrD8AIvDPs",
 		"channels": [
