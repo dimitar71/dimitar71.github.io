@@ -164,14 +164,14 @@
 			"image_url": "",
 			"to": "",
 			"subject": "Download the Sportsnet app",
-			"body": "Please check out the Sportsnet app for Android.\nhttps://play.google.com/store/apps/details?id=com.rogers.sportsnet.sportsnet&hl=en"
+			"body": "Please check out the Sportsnet app for %1$@.\n%2$@"
 		},
 		{
 			"type": "feedback",
 			"title": "Feedback",
 			"image_url": "",
 			"to": "SN_DigitalProducts@rci.rogers.com",
-			"subject": "SN App Feedback Android v%1$@",
+			"subject": "SN App Feedback %1$@ v%2$@",
 			"body": "Build #: %1$@ \n Platform: %2$@ \n OS Version: %3$@ \n Device Model: %4$@ \n Notifications: %5$@"
 		},
 		{
