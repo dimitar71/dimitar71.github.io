@@ -8,7 +8,7 @@
 		"comscore_secret": "c41bab3bd05d8b3ed83b4d584c65b7f9"
 	},
 	"android": {
-		"phone_and_tablet_url": "",
+		"phone_and_tablet_url": "https://play.google.com/store/apps/details?id=com.rogers.sportsnet.sportsnet",
 		"phone_and_tablet_version": "2.0.0",
 		"tv_version": "2.0.0",
 		"wear_version": "1.0.0",
