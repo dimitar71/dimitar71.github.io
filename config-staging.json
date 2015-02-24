@@ -111,6 +111,118 @@
 			}
 		]
 	},
+	"settings": [
+		{
+			"type": "edit_notifications",
+			"title": "Edit Notifications",
+			"image_url": ""
+		},
+		{
+			"type": "edit_favorites",
+			"title": "Edit Favorites",
+			"image_url": ""
+		},
+		{
+			"type": "divider",
+			"title": "",
+			"image_url": ""
+		},
+		{
+			"type": "browser",
+			"title": "About",
+			"image_url": "",
+			"url": ""
+		},
+		{
+			"type": "tutorial",
+			"title": "Tutorial",
+			"image_url": ""
+		},
+		{
+			"type": "browser",
+			"title": "Privacy",
+			"image_url": "",
+			"url": "http://www.rogersmedia.com/privacy.shtml"
+		},
+		{
+			"type": "browser",
+			"title": "Terms & Conditions",
+			"image_url": "",
+			"url": "http://www.rogersdigitalmedia.com/terms-conditions"
+		},
+		{
+			"type": "browser",
+			"title": "FAQs",
+			"image_url": "",
+			"url": ""
+		},
+		{
+			"type": "divider",
+			"title": "",
+			"image_url": ""
+		},
+		{
+			"type": "email",
+			"title": "Tell a Friend",
+			"image_url": "",
+			"to": "",
+			"subject": "Download the Sportsnet app",
+			"body": "Please check out the Sportsnet app for Android.\nhttps://play.google.com/store/apps/details?id=com.rogers.sportsnet.sportsnet&hl=en"
+		},
+		{
+			"type": "feedback",
+			"title": "Feedback",
+			"image_url": "",
+			"to": "SN_DigitalProducts@rci.rogers.com",
+			"subject": "SN App Feedback Android v%1$@",
+			"body": "Build #: %1$@ \n Platform: %2$@ \n OS Version: %3$@ \n Device Model: %4$@ \n Notifications: %5$@"
+		},
+		{
+			"type": "divider",
+			"title": "",
+			"image_url": ""
+		},
+		{
+			"type": "browser",
+			"title": "Follow us on Facebook",
+			"image_url": "",
+			"url": "https://www.facebook.com/sportsnet"
+		},
+		{
+			"type": "browser",
+			"title": "Follow us on Twitter",
+			"image_url": "",
+			"url": "https://twitter.com/sportsnet"
+		},
+		{
+			"type": "browser",
+			"title": "Follow us on Instagram",
+			"image_url": "",
+			"url": "http://instagram.com/sportsnet"
+		},
+		{
+			"type": "divider",
+			"title": "More Apps",
+			"image_url": ""
+		},
+		{
+			"type": "app",
+			"title": "Sportsnet Magazine",
+			"image_url": "https://lh4.ggpht.com/1RMhbE0rNtB4cV0rpB232enNYzupabamQJ3NoDW0c93CaN42Vt_XQVPqsl8azLzufx8=w300",
+			"android": "https://play.google.com/store/apps/details?id=com.rogers.sport&hl=en",
+			"ios": ""
+		},
+		{
+			"type": "app",
+			"title": "Sportsnet World Now",
+			"image_url": "https://lh4.ggpht.com/1RMhbE0rNtB4cV0rpB232enNYzupabamQJ3NoDW0c93CaN42Vt_XQVPqsl8azLzufx8=w300",
+			"android": "https://play.google.com/store/apps/details?id=com.neulion.android.sportsnet&hl=en",
+			"ios": ""
+		},
+		{
+			"type": "version"
+		}
+	],
 	"radio_stations": [
 		{
 			"name": "sn590",
@@ -216,6 +328,11 @@
 							"title_fr": ""
 						},
 						{
+							"type": "three_innings",
+							"title": "Every 3 innings",
+							"title_fr": ""
+						},
+						{
 							"type": "score",
 							"title": "On Every Score",
 							"title_fr": ""
@@ -223,11 +340,6 @@
 						{
 							"type": "close_game",
 							"title": "Close Game",
-							"title_fr": ""
-						},
-						{
-							"type": "three_innings",
-							"title": "Every 3 innings",
 							"title_fr": ""
 						}
 					]
@@ -254,6 +366,11 @@
 					],
 					"notifications": [
 						{
+							"type": "goal_highlights",
+							"title": "Goal Highlights",
+							"title_fr": ""
+						},
+						{
 							"type": "start",
 							"title": "Game Start",
 							"title_fr": ""
@@ -264,6 +381,11 @@
 							"title_fr": ""
 						},
 						{
+							"type": "period",
+							"title": "Period End",
+							"title_fr": ""
+						},
+						{
 							"type": "score",
 							"title": "On Every Score",
 							"title_fr": ""
@@ -271,16 +393,6 @@
 						{
 							"type": "close_game",
 							"title": "Close Game",
-							"title_fr": ""
-						},
-						{
-							"type": "goal_highlights",
-							"title": "Goal Highlights",
-							"title_fr": ""
-						},
-						{
-							"type": "period",
-							"title": "Period",
 							"title_fr": ""
 						}
 					]
@@ -463,6 +575,11 @@
 							"title_fr": ""
 						},
 						{
+							"type": "quarter",
+							"title": "Quarter End",
+							"title_fr": ""
+						},
+						{
 							"type": "score",
 							"title": "On Every Score",
 							"title_fr": ""
@@ -470,11 +587,6 @@
 						{
 							"type": "close_game",
 							"title": "Close Game",
-							"title_fr": ""
-						},
-						{
-							"type": "quarter",
-							"title": "Quarter End",
 							"title_fr": ""
 						}
 					]
@@ -514,6 +626,11 @@
 							"title_fr": ""
 						},
 						{
+							"type": "quarter",
+							"title": "Quarter End",
+							"title_fr": ""
+						},
+						{
 							"type": "score",
 							"title": "On Every Score",
 							"title_fr": ""
@@ -521,11 +638,6 @@
 						{
 							"type": "close_game",
 							"title": "Close Game",
-							"title_fr": ""
-						},
-						{
-							"type": "quarter",
-							"title": "Quarter End",
 							"title_fr": ""
 						}
 					]
@@ -561,13 +673,13 @@
 							"title_fr": ""
 						},
 						{
-							"type": "close_game",
-							"title": "Close Game",
+							"type": "quarter",
+							"title": "Quarter End",
 							"title_fr": ""
 						},
 						{
-							"type": "quarter",
-							"title": "Quarter End",
+							"type": "close_game",
+							"title": "Close Game",
 							"title_fr": ""
 						}
 					]
