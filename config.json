@@ -145,8 +145,8 @@
 		"article": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news/%1$@.xml"
 	},
 	"sport_urls": {
-		"notifications_get": "http://stgstats-mobile.sportsnet.ca/notifications/v1/users/%1$@/subscriptions",
-		"notifications_post": "http://stgstats-mobile.sportsnet.ca/notifications/v1/users/%1$@/subscriptions?reset=%2$@&platform=%3$@",
+		"notifications_get": "http://mobile-stats.sportsnet.ca/notifications/v1/users/%1$@/subscriptions",
+		"notifications_post": "http://mobile-stats.sportsnet.ca/notifications/v1/users/%1$@/subscriptions?reset=%2$@&platform=%3$@",
 		"brightcove_video_ios": "http://api.brightcove.com/services/library?command=search_videos&any=reference_id:%1$@&media_delivery=http_ios&video_fields=id,name,length,FLVURL,publishedDate,thumbnailURL,videoStillURL&token=IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.&sort_by=PUBLISH_DATE:DESC",
 		"brightcove_video_mp4": "http://api.brightcove.com/services/library?command=search_videos&any=reference_id:%1$@&media_delivery=http&video_fields=id,name,length,FLVURL,publishedDate,thumbnailURL,videoStillURL&token=IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.&sort_by=PUBLISH_DATE:DESC",
 		"videos": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/videos.json?league=%1$@&team=%2$@&category=%3$@&per_group=%4$@&shows=%5$@",
