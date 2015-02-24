@@ -227,7 +227,7 @@
 			"short_title": "SN 590 Toronto",
 			"title": "Sportsnet 590 The Fan (Toronto) Radio Broadcast Station",
 			"image_url": "http://radioadminassets.rogersdigitalmedia.com/uploads/sportsnet-590-logo-640x360.jpg",
-			"url": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/audios.json?station=590&show=%1$@&per_group=%2$@&from=%3$@",
+			"url": "http://mobile-stats.sportsnet.ca/rmnf/api/v1/audios.json?station=590&show=%1$@&per_group=%2$@&from=%3$@",
 			"schedule_url": "http://radioadminassets.rogersdigitalmedia.com/cjcl/widget/coming_up_on_air?num_coming_up=10",
 			"live_url": "http://radio_cjcl-lh.akamaihd.net/i/TOR590_1@176950/master.m3u8",
 			"live_meta_url": "http://radioadminassets.rogersdigitalmedia.com/cjcl/widget/on_air",
@@ -239,7 +239,7 @@
 			"short_title": "SN 960 Calgary",
 			"title": "Sportsnet 960 The Fan (Calgary) Radio Broadcast Station",
 			"image_url": "http://radioadminassets.rogersdigitalmedia.com/uploads/sportsnet-960-logo-640x360.jpg",
-			"url": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/audios.json?station=960&show=%1$@&per_group=%2$@&from=%3$@",
+			"url": "http://mobile-stats.sportsnet.ca/rmnf/api/v1/audios.json?station=960&show=%1$@&per_group=%2$@&from=%3$@",
 			"schedule_url": "http://radioadminassets.rogersdigitalmedia.com/cfac/widget/coming_up_on_air?num_coming_up=10",
 			"live_url": "http://radio_cfac-lh.akamaihd.net/i/CAL960_1@191905/master.m3u8",
 			"live_meta_url": "http://radioadminassets.rogersdigitalmedia.com/cfac/widget/on_air",
@@ -252,18 +252,18 @@
 	],
 	"rich_media": {
 		"categories": "http://mobile-stats.sportsnet.ca/rmnf/api/v1/news.json?shows=false&league=%1$@&team=%2$@&game=%3$@&type=%4$@&per_page=%5$@",
-		"article": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/news/%1$@.xml"
+		"article": "http://mobile-stats.sportsnet.ca/rmnf/api/v1/news/%1$@.xml"
 	},
 	"sport_urls": {
 		"notifications_get": "http://mobile-stats.sportsnet.ca/notifications/v1/users/%1$@/subscriptions",
 		"notifications_post": "http://mobile-stats.sportsnet.ca/notifications/v1/users/%1$@/subscriptions?reset=%2$@&platform=%3$@",
 		"brightcove_video_ios": "http://api.brightcove.com/services/library?command=search_videos&any=reference_id:%1$@&media_delivery=http_ios&video_fields=id,name,length,FLVURL,publishedDate,thumbnailURL,videoStillURL&token=IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.&sort_by=PUBLISH_DATE:DESC",
 		"brightcove_video_mp4": "http://api.brightcove.com/services/library?command=search_videos&any=reference_id:%1$@&media_delivery=http&video_fields=id,name,length,FLVURL,publishedDate,thumbnailURL,videoStillURL&token=IeGHQBR0YiAabiH_aVCqr9DBzAOCKFzGRhymfhF_zmo.&sort_by=PUBLISH_DATE:DESC",
-		"videos": "http://stgstats-mobile.sportsnet.ca/rmnf/api/v1/videos.json?league=%1$@&team=%2$@&category=%3$@&per_group=%4$@&shows=%5$@",
-		"leagues": "http://stgstats-mobile.sportsnet.ca/stats/api/v1/teams",
-		"local_teams": "http://stgstats-mobile.sportsnet.ca/stats/api/v1/localteams?latitude=%1$@&longitude=%2$@&ip=%3$@",
+		"videos": "http://mobile-stats.sportsnet.ca/rmnf/api/v1/videos.json?league=%1$@&team=%2$@&category=%3$@&per_group=%4$@&shows=%5$@",
+		"leagues": "http://mobile-stats.sportsnet.ca/stats/api/v1/teams",
+		"local_teams": "http://mobile-stats.sportsnet.ca/stats/api/v1/localteams?latitude=%1$@&longitude=%2$@&ip=%3$@",
 		"scores": "http://mobile-stats.sportsnet.ca/stats/api/v1/scores?league=%1$@&team=%2$@&day=%3$@",
-		"team_standings": "http://stgstats-mobile.sportsnet.ca/stats/api/v1/standings?league=%1$@",
+		"team_standings": "http://mobile-stats.sportsnet.ca/stats/api/v1/standings?league=%1$@",
 		"team_home": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
 		"team_add_to_calendar": "http://sportsnet.calreply.net/",
 		"game_pre_postgame_summary": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
@@ -272,7 +272,7 @@
 		"player_games_summary": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
 		"player_video_highlights": "http://igh.herokuapp.com/api/items?per_page=10&player=%1$@&type=%2$@",
 		"football": {
-			"scores": "http://stgstats-mobile.sportsnet.ca/stats/api/v1/scores?league=%1$@&week=%2$@&type=%3$@"
+			"scores": "http://mobile-stats.sportsnet.ca/stats/api/v1/scores?league=%1$@&week=%2$@&type=%3$@"
 		}
 	},
 	"allowed_sections": [
