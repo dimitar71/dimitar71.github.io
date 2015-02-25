@@ -183,19 +183,19 @@
 		{
 			"type": "browser",
 			"title": "Follow us on Facebook",
-			"image_url": "",
+			"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app//images/facebook.png",
 			"url": "https://www.facebook.com/sportsnet"
 		},
 		{
 			"type": "browser",
 			"title": "Follow us on Twitter",
-			"image_url": "",
+			"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app//images/twitter.png",
 			"url": "https://twitter.com/sportsnet"
 		},
 		{
 			"type": "browser",
 			"title": "Follow us on Instagram",
-			"image_url": "",
+			"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app//images/instagram.png",
 			"url": "http://instagram.com/sportsnet"
 		},
 		{
