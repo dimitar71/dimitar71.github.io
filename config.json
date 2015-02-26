@@ -283,6 +283,7 @@
 		"webview"
 	],
 	"all_sports": {
+		"scores_ads_enabled": true,
 		"default_leagues": [
 			"mlb",
 			"nhl",
@@ -308,6 +309,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mlb/images/mlb_256x256.png",
 					"color": "#07246a",
 					"weight": 2,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"scores",
 						"news",
@@ -355,6 +360,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nhl/images/nhl_256x256.png",
 					"color": "#262626",
 					"weight": 1,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"scores",
 						"news",
@@ -403,6 +412,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/ohl/images/ohl_256x256.png",
 					"color": "#0078c4",
 					"weight": 6,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"scores",
 						"news",
@@ -450,6 +463,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/qmjhl/images/qmjhl_256x256.png",
 					"color": "#005fac",
 					"weight": 7,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"scores",
 						"news",
@@ -497,6 +514,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/whl/images/whl_256x256.png",
 					"color": "#231f20",
 					"weight": 8,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"scores",
 						"news",
@@ -555,6 +576,10 @@
 					"division_semifinals_week": 21,
 					"division_championship_week": 22,
 					"grey_cup_week": 4,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"scores",
 						"news",
@@ -606,6 +631,10 @@
 					"championship_week": 20,
 					"pro_bowl_week": 21,
 					"super_bowl_week": 22,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"scores",
 						"news",
@@ -653,6 +682,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/nba/images/nba_256x256.png",
 					"color": "#0051a8",
 					"weight": 4,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"scores",
 						"news",
@@ -695,6 +728,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/mls/images/mls_256x256.png",
 					"color": "#182657",
 					"weight": 9,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"scores",
 						"news",
@@ -711,6 +748,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/bpl/images/bpl_256x256.png",
 					"color": "#000044",
 					"weight": 10,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"scores",
 						"news",
@@ -732,6 +773,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/curling/images/curling_256x256.png",
 					"color": "#003362",
 					"weight": 11,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"news",
 						"videos"
@@ -751,6 +796,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/atp/images/atp_256x256.png",
 					"color": "#1d2d63",
 					"weight": 12,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"news",
 						"videos"
@@ -764,6 +813,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/wta/images/wta_256x256.png",
 					"color": "#532d81",
 					"weight": 13,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"news",
 						"videos"
@@ -783,6 +836,10 @@
 					"image_256x256": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/leagues/pga/images/pga_256x256.png",
 					"color": "#003876",
 					"weight": 14,
+					"game_url": "{@url}/api/v2/%1$@/games/pre_postgame_summary/gamecode/%2$@",
+					"team_url": "{@url}/api/v2/%1$@/teams/%2$@/team_home",
+					"player_url": "{@url}/api/v2/%1$@/athletes/%2$@/games_summary",
+					"scores_ads_enabled": true,
 					"sections": [
 						"news",
 						"videos"
