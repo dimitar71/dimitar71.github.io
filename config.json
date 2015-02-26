@@ -781,7 +781,8 @@
 					"scores_ads_enabled": true,
 					"sections": [
 						"news",
-						"videos"
+						"videos",
+						"webview:{\"title\": \"Players' Championship\", \"url\": \"http://www.thegrandslamofcurling.com/curling/playerschampionship/\"}"
 					],
 					"notifications": []
 				}
@@ -804,7 +805,8 @@
 					"scores_ads_enabled": true,
 					"sections": [
 						"news",
-						"videos"
+						"videos",
+						"webview:{\"title\": \"Schedule\", \"url\": \"http://www.sportsnet.ca/tennis/atp/schedule/#\"}"
 					]
 				},
 				{
@@ -821,7 +823,8 @@
 					"scores_ads_enabled": true,
 					"sections": [
 						"news",
-						"videos"
+						"videos",
+						"webview:{\"title\": \"Schedule\", \"url\": \"http://www.sportsnet.ca/tennis/wta/schedule/#\"}"
 					],
 					"notifications": []
 				}
