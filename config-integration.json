@@ -14,7 +14,7 @@
 	},
 	"android": {
 		"phone_and_tablet_url": "https://play.google.com/store/apps/details?id=com.rogers.sportsnet.sportsnet",
-		"phone_and_tablet_version": 200,
+		"phone_and_tablet_version": 171,
 		"tv_version": "1.0.0",
 		"wear_version": "1.0.0",
 		"glass_version": "1.0.0"
