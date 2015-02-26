@@ -285,7 +285,7 @@
 		"webview"
 	],
 	"all_sports": {
-		"scores_ads_enabled": true,
+		"scores_ads_enabled": false,
 		"default_leagues": [
 			"mlb",
 			"nhl",
