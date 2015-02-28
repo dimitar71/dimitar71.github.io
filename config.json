@@ -29,42 +29,49 @@
 			{
 				"id": "SNOntario",
 				"name": "ontario",
+				"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/images/sn_ontario.png",
 				"neulion_id": 3,
 				"watchlive_id": "sno"
 			},
 			{
 				"id": "SNPacific",
 				"name": "pacific",
+				"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/images/sn_pacific.png",
 				"neulion_id": 5,
 				"watchlive_id": "snp"
 			},
 			{
 				"id": "SNWest",
 				"name": "west",
+				"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/images/sn_west.png",
 				"neulion_id": 4,
 				"watchlive_id": "snw"
 			},
 			{
 				"id": "SNEast",
 				"name": "east",
+				"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/images/sn_east.png",
 				"neulion_id": 1,
 				"watchlive_id": "sne"
 			},
 			{
 				"id": "SNOne",
 				"name": "one",
+				"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/images/sn_1.png",
 				"neulion_id": 2,
 				"watchlive_id": "sn1"
 			},
 			{
 				"id": "SN360",
 				"name": "360",
+				"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/images/sn_360.png",
 				"neulion_id": 6,
 				"watchlive_id": "sn360"
 			},
 			{
 				"id": "SNWorld",
 				"name": "world",
+				"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/images/sn_world.png",
 				"neulion_id": 8,
 				"watchlive_id": "snworld"
 			}
@@ -185,19 +192,19 @@
 		{
 			"type": "browser",
 			"title": "Follow us on Facebook",
-			"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app//images/facebook.png",
+			"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/images/facebook.png",
 			"url": "https://www.facebook.com/sportsnet"
 		},
 		{
 			"type": "browser",
 			"title": "Follow us on Twitter",
-			"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app//images/twitter.png",
+			"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/images/twitter.png",
 			"url": "https://twitter.com/sportsnet"
 		},
 		{
 			"type": "browser",
 			"title": "Follow us on Instagram",
-			"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app//images/instagram.png",
+			"image_url": "http://static.rogersdigitalmedia.com/sportsnet-mobile-app/images/instagram.png",
 			"url": "http://instagram.com/sportsnet"
 		},
 		{
